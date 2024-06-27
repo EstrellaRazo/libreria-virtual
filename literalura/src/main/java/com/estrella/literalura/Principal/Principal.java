@@ -34,10 +34,10 @@ public class Principal {
                     \nSelecciona la opción que necesites:
                     1 - Buscar y guardar libro
                     2 - Buscar libro por título
-                    2 - Buscar libros por idioma
-                    3 - Ver lista de libros registrados
-                    4 - Ver lista de autores registrados
-                    5 - Buscar autores vivos en un año determinado
+                    3 - Buscar libros por idioma
+                    4 - Ver lista de libros registrados
+                    5 - Ver lista de autores registrados
+                    6 - Buscar autores vivos en un año determinado
                     
                     0 - Salir
                     """;
