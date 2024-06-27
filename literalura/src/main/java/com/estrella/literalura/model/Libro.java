@@ -58,7 +58,6 @@ public class Libro {
 
     public void setAutores(List<Autor> autores) {
         autores.forEach(a -> a.setLibro(this));
-        System.out.println("AUTORES SETEADOS CON LIBROS");
         this.autores = autores;
     }
 
